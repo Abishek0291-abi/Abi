@@ -1,0 +1,18 @@
+ recipe-app/
+   ├── src/
+   │   ├── components/
+   │   │   ├── RecipeList.jsx
+   │   │   ├── RecipeDetail.jsx
+   │   │   ├── SearchBar.jsx
+   │   │   ├── Filters.jsx
+   │   │   ├── Favorites.jsx
+   │   ├── redux/
+   │   │   ├── slices/
+   │   │   │   ├── recipeSlice.js
+   │   │   │   ├── favoritesSlice.js
+   │   │   ├── store.js
+   │   ├── App.js
+   │   ├── index.js
+   │   ├── App.css
+   ├── public/
+   ├── package.json
